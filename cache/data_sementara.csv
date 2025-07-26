@@ -1,0 +1,98 @@
+Nama,Gender,Usia,Tinggi Badan,Berat Badan,Status,Keterangan
+Muhammad Zidan Alfarizi,Laki-laki,21,173,65.5,Lolos,Memenuhi Syarat
+Putri Ayu Lestari,Perempuan,18,157,48.0,Lolos,Memenuhi Syarat
+Agus Dwi Cahyono,Laki-laki,24,168,61.0,Tidak Lolos,Usia lebih dari 22 tahun
+Siti Aminah,Perempuan,19,155,51.0,Tidak Lolos,Tinggi tidak memenuhi syarat dan Berat tidak ideal (ideal: 46.8 kg)
+Eko Prasetyo Wibowo,Laki-laki,17,175,67.0,Tidak Lolos,Usia kurang dari 18 tahun
+Budi Setiawan,Laki-laki,20,166,68.0,Tidak Lolos,Berat tidak ideal (ideal: 59.4 kg)
+Rina Hartati,Perempuan,22,163,53.0,Lolos,Memenuhi Syarat
+Hendra Gunawan,Laki-laki,19,180,72.0,Lolos,Memenuhi Syarat
+Kartika Sari Dewi,Perempuan,21,160,50.5,Lolos,Memenuhi Syarat
+Surya Pratama,Laki-laki,20,162,55.5,Lolos,Memenuhi Syarat
+Indah Permata,Perempuan,18,168,58.0,Lolos,Memenuhi Syarat
+Yoga Adi Nugroho,Laki-laki,19,169,70.0,Tidak Lolos,Berat tidak ideal (ideal: 62.1 kg)
+Fitri Wulandari,Perempuan,25,161,53.0,Tidak Lolos,Usia lebih dari 22 tahun
+Ahmad Fauzi,Laki-laki,22,171,63.5,Lolos,Memenuhi Syarat
+Mega Mustika,Perempuan,20,158,49.5,Lolos,Memenuhi Syarat
+Dimas Anggara Putra,Laki-laki,21,164,57.0,Lolos,Memenuhi Syarat
+Anisa Rahma,Perempuan,19,166,56.0,Lolos,Memenuhi Syarat
+Fajar Sidik,Laki-laki,18,176,68.0,Lolos,Memenuhi Syarat
+Bella Graceva,Perempuan,20,159,50.0,Lolos,Memenuhi Syarat
+Teguh Firmansyah,Laki-laki,22,172,64.0,Lolos,Memenuhi Syarat
+Citra Kirana,Perempuan,21,165,55.0,Lolos,Memenuhi Syarat
+Rian Ardianto,Laki-laki,23,167,60.0,Tidak Lolos,Usia lebih dari 22 tahun
+Jessica Mila,Perempuan,18,156,48.0,Tidak Lolos,Tinggi tidak memenuhi syarat
+Iwan Fals,Laki-laki,19,174,66.0,Lolos,Memenuhi Syarat
+Yuni Shara,Perempuan,20,162,52.5,Lolos,Memenuhi Syarat
+Krisna Murti,Laki-laki,21,170,63.0,Lolos,Memenuhi Syarat
+Utami Dewi,Perempuan,22,164,54.0,Lolos,Memenuhi Syarat
+Zainal Abidin,Laki-laki,20,168,61.0,Lolos,Memenuhi Syarat
+Wulan Guritno,Perempuan,19,167,57.0,Lolos,Memenuhi Syarat
+Adi Nugroho,Laki-laki,18,178,70.0,Lolos,Memenuhi Syarat
+Ana Maria,Perempuan,20,157,48.5,Lolos,Memenuhi Syarat
+Bayu Skak,Laki-laki,22,163,56.0,Lolos,Memenuhi Syarat
+Cinta Laura Kiehl,Perempuan,21,170,58.0,Lolos,Memenuhi Syarat
+Dedi Corbuzier,Laki-laki,25,182,74.0,Tidak Lolos,Usia lebih dari 22 tahun
+Eva Celia,Perempuan,18,161,52.0,Lolos,Memenuhi Syarat
+Gading Marten,Laki-laki,19,179,71.0,Lolos,Memenuhi Syarat
+Hannah Al Rashid,Perempuan,20,169,59.0,Lolos,Memenuhi Syarat
+Jefri Nichol,Laki-laki,21,175,67.0,Lolos,Memenuhi Syarat
+Luna Maya,Perempuan,22,172,60.0,Lolos,Memenuhi Syarat
+Maulana Yusuf,Laki-laki,20,169,62.0,Lolos,Memenuhi Syarat
+Nabila Syakieb,Perempuan,19,168,58.0,Lolos,Memenuhi Syarat
+Omar Daniel,Laki-laki,18,181,73.0,Lolos,Memenuhi Syarat
+Pevita Pearce,Perempuan,20,165,55.0,Lolos,Memenuhi Syarat
+Reza Rahadian,Laki-laki,22,177,69.0,Lolos,Memenuhi Syarat
+Sandra Dewi,Perempuan,21,166,56.0,Lolos,Memenuhi Syarat
+Tara Basro,Perempuan,20,164,54.0,Lolos,Memenuhi Syarat
+Vino G. Bastian,Laki-laki,19,176,68.0,Lolos,Memenuhi Syarat
+Chelsea Islan,Perempuan,18,167,57.0,Lolos,Memenuhi Syarat
+Arifin Putra,Laki-laki,21,180,72.0,Lolos,Memenuhi Syarat
+Dian Sastrowardoyo,Perempuan,22,163,53.0,Lolos,Memenuhi Syarat
+Herjunot Ali,Laki-laki,20,178,70.0,Lolos,Memenuhi Syarat
+Laudya Cynthia Bella,Perempuan,19,160,50.5,Lolos,Memenuhi Syarat
+Nicholas Saputra,Laki-laki,18,182,74.0,Lolos,Memenuhi Syarat
+Raisa Andriana,Perempuan,20,168,58.0,Lolos,Memenuhi Syarat
+Samuel Rizal,Laki-laki,22,174,66.0,Lolos,Memenuhi Syarat
+Titi Kamal,Perempuan,21,169,59.0,Lolos,Memenuhi Syarat
+Ario Bayu,Laki-laki,20,179,71.0,Lolos,Memenuhi Syarat
+Atiqah Hasiholan,Perempuan,19,171,60.0,Lolos,Memenuhi Syarat
+Chicco Jerikho,Laki-laki,18,177,69.0,Lolos,Memenuhi Syarat
+Julie Estelle,Perempuan,20,170,58.0,Lolos,Memenuhi Syarat
+Lukman Sardi,Laki-laki,22,173,65.0,Lolos,Memenuhi Syarat
+Marsha Timothy,Perempuan,21,164,54.0,Lolos,Memenuhi Syarat
+Oka Antara,Laki-laki,20,176,68.0,Lolos,Memenuhi Syarat
+Prisia Nasution,Perempuan,19,166,56.0,Lolos,Memenuhi Syarat
+Rio Dewanto,Laki-laki,18,180,72.0,Lolos,Memenuhi Syarat
+Shandy Aulia,Perempuan,20,162,52.0,Lolos,Memenuhi Syarat
+Tora Sudiro,Laki-laki,22,175,75.0,Tidak Lolos,Berat tidak ideal (ideal: 67.5 kg)
+Winky Wiryawan,Laki-laki,21,171,64.0,Lolos,Memenuhi Syarat
+Adinia Wirasti,Perempuan,20,173,61.0,Lolos,Memenuhi Syarat
+Fachri Albar,Laki-laki,19,178,70.0,Lolos,Memenuhi Syarat
+Happy Salma,Perempuan,18,165,55.0,Lolos,Memenuhi Syarat
+Morgan Oey,Laki-laki,21,179,71.0,Lolos,Memenuhi Syarat
+Nirina Zubir,Perempuan,22,160,51.0,Lolos,Memenuhi Syarat
+Ringgo Agus Rahman,Laki-laki,20,172,65.0,Lolos,Memenuhi Syarat
+Sissy Priscillia,Perempuan,19,163,53.0,Lolos,Memenuhi Syarat
+Vidi Aldiano,Laki-laki,18,170,63.0,Lolos,Memenuhi Syarat
+Yama Carlos,Laki-laki,22,181,73.0,Lolos,Memenuhi Syarat
+Abimana Aryasatya,Laki-laki,21,177,69.0,Lolos,Memenuhi Syarat
+Acha Septriasa,Perempuan,20,165,55.0,Lolos,Memenuhi Syarat
+Cornelio Sunny,Laki-laki,19,183,75.0,Lolos,Memenuhi Syarat
+Donny Alamsyah,Laki-laki,22,176,68.0,Lolos,Memenuhi Syarat
+Faradina Mufti,Perempuan,21,168,58.0,Lolos,Memenuhi Syarat
+Ganindra Bimo,Laki-laki,20,180,72.0,Lolos,Memenuhi Syarat
+Hannah Prinz,Perempuan,19,169,59.0,Lolos,Memenuhi Syarat
+Ibnu Jamil,Laki-laki,18,178,70.0,Lolos,Memenuhi Syarat
+Kelly Tandiono,Perempuan,20,175,62.0,Lolos,Memenuhi Syarat
+Mike Lewis,Laki-laki,22,185,77.0,Lolos,Memenuhi Syarat
+Millane Fernandez,Perempuan,21,171,60.0,Lolos,Memenuhi Syarat
+Richard Kyle,Laki-laki,20,186,78.0,Lolos,Memenuhi Syarat
+Salvita Decorte,Perempuan,19,172,60.0,Lolos,Memenuhi Syarat
+Zack Lee,Laki-laki,18,184,76.0,Lolos,Memenuhi Syarat
+Andi Arsyil Rahman,Laki-laki,21,175,67.0,Lolos,Memenuhi Syarat
+Asmirandah Zantman,Perempuan,20,166,56.0,Lolos,Memenuhi Syarat
+Ben Joshua,Laki-laki,19,177,69.0,Lolos,Memenuhi Syarat
+Bunga Citra Lestari,Perempuan,18,161,52.0,Lolos,Memenuhi Syarat
+Christian Sugiono,Laki-laki,22,182,74.0,Lolos,Memenuhi Syarat
+Cut Meyriska,Perempuan,21,163,53.0,Lolos,Memenuhi Syarat
