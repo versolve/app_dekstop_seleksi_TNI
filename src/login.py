@@ -12,9 +12,7 @@ BUTTON_FG_COLOR = '#ffffff'
 
 # Data Panitia
 users = [
-    {"username": "faiz", "password": "faizganteng"},
-    {"username": "ferdi", "password": "ferdi"},
-    {"username": "wahyu", "password": "dimsum"}
+    {"username": "admin", "password": "admin123"},
 ]
 
 def check_login():
@@ -50,7 +48,7 @@ root.configure(bg=BG_COLOR)
 
 try:
     # Menentukan path ke ikon
-    icon_path = os.path.join("static/logo.ico")
+    icon_path = os.path.join("..", "assets", "logo.ico")
     root.iconbitmap(icon_path)
 except tk.TclError:
     print("Icon 'logo.ico' tidak ditemukan.")

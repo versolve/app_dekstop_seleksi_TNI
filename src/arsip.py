@@ -6,8 +6,8 @@ import csv
 
 # --- Direktori & Path ---
 BASE_DIR = ""
-ARSIP_DIR = os.path.join(BASE_DIR, "arsip")
-FILE_SEMENTARA = os.path.join(BASE_DIR, "data_sementara.csv")
+ARSIP_DIR = os.path.join(BASE_DIR, "..", "data", "arsip")
+FILE_SEMENTARA = os.path.join("..", "data", "cache", "data_sementara.csv")
 CSV_FIELDNAMES = ["Nama", "Gender", "Usia", "Tinggi Badan", "Berat Badan", "Status", "Keterangan"]
 
 # --- Tema Warna Modern ---
@@ -154,7 +154,7 @@ root.bind("<Escape>", lambda e: root.attributes("-fullscreen", False))
 root.configure(bg=BG_COLOR)
 
 try:
-    icon_path = os.path.join(BASE_DIR, "static", "logo.ico")
+    icon_path = os.path.join("..", "assets", "logo.ico")
     root.iconbitmap(icon_path)
 except tk.TclError:
     print("Icon 'logo.ico' tidak ditemukan.")

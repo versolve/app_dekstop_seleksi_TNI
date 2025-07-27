@@ -294,7 +294,7 @@ def import_data():
     except Exception as e:
         messagebox.showerror("Error", f"Gagal mengimpor data: {e}")
 
-FILE_SEMENTARA = "cache/data_sementara.csv"
+FILE_SEMENTARA = "../data/cache/data_sementara.csv"
 
 def simpan_sementara():
     """Menyimpan sesi data saat ini ke file sementara."""
@@ -347,7 +347,7 @@ def arsipkan():
         return # Pengguna membatalkan dialog
 
     # 4. Siapkan path untuk menyimpan file
-    arsip_dir = os.path.join("arsip")
+    arsip_dir = os.path.join("..", "data", "arsip")
     os.makedirs(arsip_dir, exist_ok=True) # Buat folder jika belum ada
     arsip_file_path = os.path.join(arsip_dir, f"{nama_angkatan}.csv")
 
@@ -376,7 +376,7 @@ def arsipkan():
 frmutama = tk.Tk()
 frmutama.attributes("-fullscreen", True)
 frmutama.bind("<Escape>", lambda e: frmutama.attributes("-fullscreen", False))
-try: frmutama.iconbitmap("static/logo.ico")
+try: frmutama.iconbitmap("../assets/logo.ico")
 except tk.TclError: pass
 frmutama.title("Aplikasi Seleksi Calon Prajurit TNI")
 frmutama.configure(bg=BG_COLOR)
@@ -392,7 +392,7 @@ frame_judul_container = tk.Frame(frame_atas, bg=BG_COLOR)
 frame_judul_container.pack(side="top", fill="x", expand=True)
 
 try:
-    header_path = os.path.join("static", "header.gif")
+    header_path = os.path.join("..", "assets", "header.gif")
     header = PhotoImage(file=header_path)
     label_header = tk.Label(frame_judul_container, image=header, bg=BG_COLOR)
     label_header.pack()

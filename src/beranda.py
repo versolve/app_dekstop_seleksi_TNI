@@ -46,7 +46,7 @@ root.bind("<Escape>", lambda e: root.attributes("-fullscreen", False))
 root.configure(bg=BG_COLOR)
 
 try:
-    icon_path = os.path.join("static/logo.ico")
+    icon_path = os.path.join("..", "assets", "logo.ico")
     root.iconbitmap(icon_path)
 except tk.TclError:
     print("Icon 'logo.ico' tidak ditemukan.")
@@ -64,7 +64,7 @@ footer_spacer.pack(side="bottom", fill="both", expand=True)
 
 # --- Widget ---
 try:
-    logo_path = os.path.join("static", "logo.gif")
+    logo_path = os.path.join("..", "assets", "logo.gif")
     logo = PhotoImage(file=logo_path)
     label_logo = tk.Label(main_frame, image=logo, bg=BG_COLOR)
     label_logo.pack()
